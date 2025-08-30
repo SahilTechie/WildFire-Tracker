@@ -6,6 +6,10 @@ A real-time wildfire tracking application built with React that displays active 
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-API-green)
 ![NASA API](https://img.shields.io/badge/NASA-EONET-orange)
 
+
+🔗 **Live Preview:** (https://yshh6t.csb.app/)
+
+
 ## 🌟 Features
 
 - **Real-time Wildfire Data**: Fetches live wildfire events from NASA's EONET API
